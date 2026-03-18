@@ -3,8 +3,8 @@
 This code implements template detection using OpenCV library in Python. It is designed to detect objects with varying scales and rotations.
 The detection is performed using histogram-based method.
 
-To run program it is needed to maintain structure shown below:  
-template-detection/  
+To run program it is needed to maintain structure shown below (file names do not matter):  
+object-detection/  
 |_ g13/  
 |_main.py  
 |_wycinek.png
